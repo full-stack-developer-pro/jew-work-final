@@ -281,7 +281,8 @@ a {
 }
 
 .ui-mobile-active > .ps-menu-button {
-  color: #5bbb7b !important;
+  /*color: #5bbb7b !important;*/
+  color: #005EB8 !important;
 }
 
 .css-jn69v9,

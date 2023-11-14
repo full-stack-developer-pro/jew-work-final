@@ -1,9 +1,13 @@
 "use client";
 import React, { useState } from "react";
+import SelectInput from "@/components/dashboard/option/SelectInput";
+
 import Link from "next/link";
 import AuthService from "@/services/auth.service";
 import { ToastContainer,toast } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css'
+
+
 
 
 export default function page() {
@@ -15,6 +19,13 @@ const [username,setUserName] = useState("");
 const [email,setEmail] = useState("");
 const [password,setPassword] = useState("");
 const [loading,setLoading] = useState(false);
+
+const [cType,setCtype] = useState("");
+const [type, setType] = useState({
+  option: "Select",
+  value:null,
+});
+
 
 
 
@@ -35,6 +46,7 @@ const [loading,setLoading] = useState(false);
     data.username = username;
     data.email = email;
     data.password = password;
+    data.type = cType;
 
     setLoading(true);
     await AuthService.register(data).then(
@@ -51,7 +63,7 @@ const [loading,setLoading] = useState(false);
         const resMessage = 
           (error.response && 
             error.response.data &&
-            error.message.data.msg) ||
+            error.response.data.msg) ||
             error.message ||
             error.toString();
 
@@ -63,6 +75,13 @@ const [loading,setLoading] = useState(false);
     );
 
   };
+
+  const typeHandler = (option, value) => {
+    setType({option,value} );
+    setCtype(value)
+  };
+
+  
   return (
     <>
 
@@ -140,6 +159,28 @@ const [loading,setLoading] = useState(false);
 
                   />
                 </div>
+
+                <div className="col-sm-12">
+                <div className="mb20">
+                  <SelectInput
+                    label="Type"
+                    defaultSelect={type}
+                    data={[
+                      { 
+                        option: "Freelancer", 
+                        value: "freelancer" 
+                      },
+                      {
+                        option: "Client",
+                        value: "client",
+                      },
+                    ]}
+                    handler={typeHandler}
+                    onChange={(e)=>setType(e.target.value)}
+                  />
+                </div>
+              </div>
+
                 <div className="d-grid mb20">
                   <button
                     className="ud-btn btn-thm default-box-shadow2"

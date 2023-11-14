@@ -1,1 +1,8 @@
-{}
+{
+  "/[...not_found]/page": "app/[...not_found]/page.js",
+  "/(dashboard)/manage-services/page": "app/(dashboard)/manage-services/page.js",
+  "/(dashboard)/reviews/page": "app/(dashboard)/reviews/page.js",
+  "/(dashboard)/invoice/page": "app/(dashboard)/invoice/page.js",
+  "/(dashboard)/payouts/page": "app/(dashboard)/payouts/page.js",
+  "/(dashboard)/statements/page": "app/(dashboard)/statements/page.js"
+}

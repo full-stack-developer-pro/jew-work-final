@@ -12,7 +12,7 @@ export default function ProfileDetails() {
     const [profile,setProfile] = useState([]);
     const [username,setUserName] = useState(" ");
     const[email,setEmail] = useState(" ");
-    const[phonenumber,setPhoneNumber] = useState(" ");
+    //const[type,setTypee] = useState(" ");
     //const[tagline,setTagLine] = useState(" ");
     //const[description,setDescription] = useState(" ");
 
@@ -23,10 +23,12 @@ export default function ProfileDetails() {
       await DataService.profile().then((data) => 
       {
         setProfile(data?.data);
-        console.log(profile)
-        setPhoneNumber(data?.data?.data?.phonenumber);
+        //console.log(profile)
+        //setPhoneNumber(data?.data?.data?.phonenumber);
         setUserName(data?.data?.data?.username);
         setEmail(data?.data?.data?.email);
+        //setType(data?.data?.data?.type);
+
         //setTagline(data?.data?.data?.tagline);
         //reference.current.complete();
       })
@@ -53,7 +55,7 @@ console.log(profile)
     option: "Select",
     value: null,
   });
-  const [getType, setType] = useState({
+  const [type, setType] = useState({
     option: "Select",
     value: null,
   });
@@ -86,15 +88,18 @@ console.log(profile)
     setHourly({ option, value });
   };
   const genderHandler = (option, value) => {
-    setGender({ option, value });
+    setGender({option,value });
   };
 
   const specializationHandler = (option, value) => {
     setSpecialization({ option, value });
   };
+
   const typeHandler = (option, value) => {
     setType({ option, value });
   };
+
+
   const countryHandler = (option, value) => {
     setCountry({ option, value });
   };
@@ -183,6 +188,7 @@ console.log(profile)
                     value={profile?.email}
                     className="form-control"
                     placeholder="i will"
+                    
                     onClick={(e) => setEmail(e.target.value)}
                   />
                 </div>
@@ -267,7 +273,7 @@ console.log(profile)
                 <div className="mb20">
                   <SelectInput
                     label="Type"
-                    defaultSelect={getType}
+                    defaultSelect={type}
                     data={[
                       {
                         option: "Type 1",
@@ -283,6 +289,9 @@ console.log(profile)
                       },
                     ]}
                     handler={typeHandler}
+                   // value = {profile?.type}
+                    // onClick={(e) => setType(e.target.value)}
+
                   />
                 </div>
               </div>
@@ -411,7 +420,7 @@ console.log(profile)
                   </label>
                   <textarea cols={30} rows={6} placeholder="Description" />
                   {/* value={description} */}
-                  onchange = {(e) =>setDescription(e.target.value)}
+                  {/* onchange = {(e) =>setDescription(e.target.value)} */}
                 </div>
               </div>
               <div className="col-md-12">
@@ -420,6 +429,7 @@ console.log(profile)
                     Save
                     <i className="fal fa-arrow-right-long" />
                   </Link>
+               
                 </div>
               </div>
             </div>
