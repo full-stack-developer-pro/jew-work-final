@@ -1,8 +1,10 @@
 export const product1 = [
   {
     id: 1,
-    img: "/images/listings/g-1.jpg",
-    img2: "/images/listings/g-17.jpg",
+    //img: "/images/listings/g-1.jpg",
+    //img2: "/images/listings/g-17.jpg",
+    img: "/images/listings/gdemo-1.png",
+    img2: "/images/listings/gdemo-17.png",
     category: "Web & App Design",
     title: "I will design modern websites in figma or adobe xd",
     rating: 4.82,
@@ -25,8 +27,10 @@ export const product1 = [
   },
   {
     id: 2,
-    img: "/images/listings/g-2.jpg",
-    img2: "/images/listings/g-18.jpg",
+    //img: "/images/listings/g-2.jpg",
+    //img2: "/images/listings/g-18.jpg",
+    img: "/images/listings/gdemo-2.png",
+    img2: "/images/listings/gdemo-18.png",
     category: "Art & Illustration",
     title: "I will create modern flat design illustration",
     rating: 4.82,
@@ -54,8 +58,10 @@ export const product1 = [
   },
   {
     id: 3,
-    img: "/images/listings/g-3.jpg",
-    img2: "/images/listings/g-19.jpg",
+    //img: "/images/listings/g-3.jpg",
+    //img2: "/images/listings/g-19.jpg",
+    img: "/images/listings/gdemo-3.png",
+    img2: "/images/listings/gdemo-19.png",
     category: "Design & Creative",
     title:
       "I will build a fully responsive design in HTML,CSS, bootstrap, and javascript",
@@ -79,8 +85,10 @@ export const product1 = [
   },
   {
     id: 4,
-    img: "/images/listings/g-4.jpg",
-    img2: "/images/listings/g-20.jpg",
+    //img: "/images/listings/g-4.jpg",
+    //img2: "/images/listings/g-20.jpg",
+    img: "/images/listings/gdemo-4.png",
+    img2: "/images/listings/gdemo-20.png",
     category: "Web & App Design",
     title: "I will do mobile app development for ios and android",
     rating: 4.82,
@@ -103,8 +111,10 @@ export const product1 = [
   },
   {
     id: 5,
-    img: "/images/listings/g-5.jpg",
-    img2: "/images/listings/g-21.jpg",
+    //img: "/images/listings/g-5.jpg",
+    //img2: "/images/listings/g-21.jpg",
+    img: "/images/listings/gdemo-5.png",
+    img2: "/images/listings/gdemo-21.png",
     category: "Web & App Design",
     title: "I will design modern websites in figma or adobe xd",
     rating: 4.82,
@@ -127,8 +137,10 @@ export const product1 = [
   },
   {
     id: 6,
-    img: "/images/listings/g-6.jpg",
-    img2: "/images/listings/g-22.jpg",
+    //img: "/images/listings/g-6.jpg",
+    //img2: "/images/listings/g-22.jpg",
+    img: "/images/listings/gdemo-6.png",
+    img2: "/images/listings/gdemo-21.png",
     category: "Web & App Design",
     title: "I will design modern websites in figma or adobe xd",
     rating: 4.82,
@@ -151,8 +163,10 @@ export const product1 = [
   },
   {
     id: 7,
-    img: "/images/listings/g-7.jpg",
-    img2: "/images/listings/g-17.jpg",
+    //img: "/images/listings/g-7.jpg",
+    //img2: "/images/listings/g-17.jpg",
+    img: "/images/listings/gdemo-7.png",
+    img2: "/images/listings/gdemo-17.png",
     category: "Design & Creative",
     title:
       "I will build a fully responsive design in HTML,CSS, bootstrap, and javascript",
@@ -174,8 +188,10 @@ export const product1 = [
   },
   {
     id: 8,
-    img: "/images/listings/g-1.jpg",
-    img2: "/images/listings/g-18.jpg",
+    //img: "/images/listings/g-1.jpg",
+    //img2: "/images/listings/g-18.jpg",
+    img: "/images/listings/gdemo-1.png",
+    img2: "/images/listings/gdemo-18.png",
     category: "Web & App Design",
     title: "I will design modern websites in figma or adobe xd",
     rating: 4.82,
@@ -196,8 +212,10 @@ export const product1 = [
   },
   {
     id: 9,
-    img: "/images/listings/g-9.jpg",
-    img2: "/images/listings/g-17.jpg",
+    //img: "/images/listings/g-9.jpg",
+    //img2: "/images/listings/g-17.jpg",
+    img: "/images/listings/gdemo-9.png",
+    img2: "/images/listings/gdemo-17.png",
     category: "Web & App Design",
     title: "I will design modern websites in figma or adobe xd",
     rating: 4.82,
@@ -218,8 +236,10 @@ export const product1 = [
   },
   {
     id: 10,
-    img: "/images/listings/g-10.jpg",
-    img2: "/images/listings/g-18.jpg",
+    //img: "/images/listings/g-10.jpg",
+    //img2: "/images/listings/g-18.jpg",
+    img: "/images/listings/gdemo-10.png",
+    img2: "/images/listings/gdemo-18.png",
     category: "Art & Illustration",
     title: "I will create modern flat design illustration",
     rating: 4.82,
@@ -245,8 +265,11 @@ export const product1 = [
   },
   {
     id: 11,
-    img: "/images/listings/g-11.jpg",
-    img2: "/images/listings/g-19.jpg",
+    //img: "/images/listings/g-11.jpg",
+    //img2: "/images/listings/g-19.jpg",
+    img: "/images/listings/gdemo-11.png",
+    img2: "/images/listings/gdemo-19.png",
+
     category: "Design & Creative",
     title:
       "I will build a fully responsive design in HTML,CSS, bootstrap, and javascript",
@@ -268,8 +291,10 @@ export const product1 = [
   },
   {
     id: 12,
-    img: "/images/listings/g-12.jpg",
-    img2: "/images/listings/g-20.jpg",
+    //img: "/images/listings/g-12.jpg",
+    //img2: "/images/listings/g-20.jpg",
+    img: "/images/listings/gdemo-12.png",
+    img2: "/images/listings/gdemo-20.png",
     category: "Web & App Design",
     title: "I will do mobile app development for ios and android",
     rating: 4.82,
@@ -294,7 +319,7 @@ export const hightedRated1 = [
   {
     id: 1,
     avatar: "/images/team/fl-1.png",
-    name: "Robert Fox",
+    name: "Robert Fox ",
     skill: "Nursing Assistant",
     rating: 4.9,
     review: 595,
@@ -635,7 +660,8 @@ export const project1 = [
   {
     id: 1,
     title: "Food Delviery Mobile App",
-    img: "/images/team/client-1.png",
+   // img: "/images/team/client-1.png",
+     img: "/images/team/client-demo1.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "United States",
@@ -654,7 +680,8 @@ export const project1 = [
   {
     id: 2,
     title: "Swift / SwiftUI Developer for B2B iOS apps",
-    img: "/images/team/client-2.png",
+    //img: "/images/team/client-2.png",
+    img: "/images/team/client-demo2.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "United Kingdom",
@@ -673,7 +700,8 @@ export const project1 = [
   {
     id: 3,
     title: "English content writer for Fintech",
-    img: "/images/team/client-3.png",
+    //img: "/images/team/client-3.png",
+    img: "/images/team/client-demo3.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "United Kingdom",
@@ -692,7 +720,8 @@ export const project1 = [
   {
     id: 4,
     title: "Full-stack Developer to help us to build our",
-    img: "/images/team/client-4.png",
+    //img: "/images/team/client-4.png",
+    img: "/images/team/client-demo4.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "Canada",
@@ -711,7 +740,8 @@ export const project1 = [
   {
     id: 5,
     title: "Looking for team members for web agency",
-    img: "/images/team/client-5.png",
+    //img: "/images/team/client-5.png",
+    img: "/images/team/client-demo5.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "Germany",
@@ -730,7 +760,8 @@ export const project1 = [
   {
     id: 6,
     title: "Video animator to bring some illustrations to life",
-    img: "/images/team/client-6.png",
+    //img: "/images/team/client-6.png",
+    img: "/images/team/client-demo6.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "Turkey",
@@ -749,7 +780,8 @@ export const project1 = [
   {
     id: 7,
     title: "Food Delviery Mobile App",
-    img: "/images/team/client-7.png",
+    //img: "/images/team/client-7.png",
+    img: "/images/team/client-demo7.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "United States",
@@ -768,7 +800,8 @@ export const project1 = [
   {
     id: 8,
     title: "Food Delviery Mobile App",
-    img: "/images/team/client-8.png",
+    //img: "/images/team/client-8.png",
+    img: "/images/team/client-demo8.png",
     brief:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
     location: "United Kingdom",
@@ -1231,28 +1264,32 @@ export const inspiringProjects = [
   {
     id: 1,
     title: "Caricatures",
-    imageSrc: "/images/listings/pro-1.jpg",
+    //imageSrc: "/images/listings/pro-1.jpg",
+    imageSrc: "/images/listings/prodemo-1.png",
     freelancerImageSrc: "/images/team/fl-m-1.png",
     author: "Ali Tufan",
   },
   {
     id: 2,
     title: "Product Photography",
-    imageSrc: "/images/listings/pro-2.jpg",
+    //imageSrc: "/images/listings/pro-2.jpg",
+    imageSrc: "/images/listings/prodemo-2.png",
     freelancerImageSrc: "/images/team/fl-m-2.png",
     author: "Ali Tufan",
   },
   {
     id: 3,
     title: "UI Design",
-    imageSrc: "/images/listings/pro-3.jpg",
+    //imageSrc: "/images/listings/pro-3.jpg",
+    imageSrc: "/images/listings/prodemo-3.png",
     freelancerImageSrc: "/images/team/fl-m-3.png",
     author: "Ali Tufan",
   },
   {
     id: 4,
     title: "App Design",
-    imageSrc: "/images/listings/pro-4.jpg",
+    //imageSrc: "/images/listings/pro-4.jpg",
+    imageSrc: "/images/listings/prodemo-4.png",
     freelancerImageSrc: "/images/team/fl-m-4.png",
     author: "Ali Tufan",
   },

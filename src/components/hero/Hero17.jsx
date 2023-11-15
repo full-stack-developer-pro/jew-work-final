@@ -38,7 +38,8 @@ export default function Hero17() {
                   <Image
                     width={240}
                     height={240}
-                    src="/images/about/home17-hero-1.png"
+                    //src="/images/about/home17-hero-1.png"
+                    src="/images/about/home17-demo1.png"
                     alt=" image "
                   />
                 </div>
@@ -46,7 +47,8 @@ export default function Hero17() {
                   <Image
                     width={240}
                     height={240}
-                    src="/images/about/home17-hero-2.png"
+                    //src="/images/about/home17-hero-2.png"
+                    src="/images/about/home17-demo2.png"
                     alt=" image "
                   />
                 </div>
@@ -56,7 +58,8 @@ export default function Hero17() {
                   width={519}
                   height={240}
                   style={{ height: "fit-content" }}
-                  src="/images/about/home17-hero-3.png"
+                  //src="/images/about/home17-hero-3.png"
+                  src="/images/about/home17-demo3.png"
                   alt=" image "
                 />
               </div>

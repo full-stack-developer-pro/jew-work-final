@@ -91,7 +91,7 @@ export default function HighestRated17() {
                               <h6 className="text fz14">{elm.role}</h6>
                             </div>
                             <div className="review">
-                              <span className="text-white fz15 fw500">
+                              <span className="text-white fzd15 fw500">
                                 <i className="fas fa-star mr15"></i>
                                 {elm.rating}
                               </span>

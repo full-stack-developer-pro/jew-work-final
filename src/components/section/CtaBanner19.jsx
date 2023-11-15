@@ -35,7 +35,9 @@ export default function CtaBanner19() {
               height={550}
               style={{ height: "fit-content" }}
               className="home11-ctaimg-v3 at-home15 d-none d-md-block"
-              src="/images/about/about-16.png"
+              //src="/images/about/about-16.png"
+              src="/images/about/about-demo16.png"
+
               alt=" image "
             />
             <Image

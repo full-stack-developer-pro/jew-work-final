@@ -1,8 +1,8 @@
 {
-  "/[...not_found]/page": "app/[...not_found]/page.js",
-  "/(dashboard)/manage-services/page": "app/(dashboard)/manage-services/page.js",
-  "/(dashboard)/reviews/page": "app/(dashboard)/reviews/page.js",
-  "/(dashboard)/invoice/page": "app/(dashboard)/invoice/page.js",
-  "/(dashboard)/payouts/page": "app/(dashboard)/payouts/page.js",
-  "/(dashboard)/statements/page": "app/(dashboard)/statements/page.js"
+  "/contact/page": "app/contact/page.js",
+  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/(home)/home-17/page": "app/(home)/home-17/page.js",
+  "/(project)/project-1/page": "app/(project)/project-1/page.js",
+  "/(service)/service-single/page": "app/(service)/service-single/page.js",
+  "/(blog)/blog-1/page": "app/(blog)/blog-1/page.js"
 }

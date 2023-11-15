@@ -5790,7 +5790,8 @@ section {
 .feature-style1 .title,
 .feature-style1 .text,
 .feature-style1 .ud-btn2 {
-  color: #ffffff;
+  /*color: #ffffff;*/
+  color:#000000;
 }
 .feature-style1 .ud-btn2 {
   font-size: 14px;
@@ -11995,6 +11996,12 @@ input:focus-visible {
 
 .fz15 {
   font-size: 15px;
+  /*color: #005EB8 !important;*/
+}
+
+.fzd15{
+  font-size: 15px;
+  color: #005EB8 !important;
 }
 
 .fz16 {

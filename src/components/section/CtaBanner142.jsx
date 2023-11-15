@@ -62,7 +62,7 @@ export default function CtaBanner142() {
             width={500}
             style={{ height: "fit-content" }}
             className="cta-banner3-img wow fadeInLeft h-100 object-fit-cover"
-            src="/images/about/about-17.jpg"
+            //src="/images/about/about-17.jpg"
             alt="cta banner 3"
             data-wow-delay="300ms"
           />
