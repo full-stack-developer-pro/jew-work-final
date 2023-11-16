@@ -49,7 +49,7 @@ export default function ShopSingleAreaGallery() {
                     height={400}
                     width={400}
                     className="wa"
-                    src="/images/shop/shop-single-1.png"
+                    //src="/images/shop/shop-single-1.png"
                     alt="product"
                   />
                 </a>
@@ -62,7 +62,7 @@ export default function ShopSingleAreaGallery() {
                     height={400}
                     width={400}
                     className="wa"
-                    src="/images/shop/shop-single-1.png"
+                    //src="/images/shop/shop-single-1.png"
                     alt="product"
                   />
                 </a>
@@ -75,7 +75,7 @@ export default function ShopSingleAreaGallery() {
                     height={400}
                     width={400}
                     className="wa"
-                    src="/images/shop/shop-single-1.png"
+                    //src="/images/shop/shop-single-1.png"
                     alt="product"
                   />
                 </a>
@@ -91,7 +91,8 @@ export default function ShopSingleAreaGallery() {
                     height={400}
                     width={400}
                     className="wa"
-                    src="/images/shop/shop-single-1.png"
+                    //src="/images/shop/shop-single-1.png"
+                    src="/images/shop/6.png"
                     alt="product"
                   />
                 </a>
@@ -104,7 +105,7 @@ export default function ShopSingleAreaGallery() {
                     height={400}
                     width={400}
                     className="wa"
-                    src="/images/shop/shop-single-1.png"
+                    //src="/images/shop/shop-single-1.png"
                     alt="product"
                   />
                 </a>
@@ -117,7 +118,7 @@ export default function ShopSingleAreaGallery() {
                     height={400}
                     width={400}
                     className="wa"
-                    src="/images/shop/shop-single-1.png"
+                    //src="/images/shop/shop-single-1.png"
                     alt="product"
                   />
                 </a>
@@ -130,7 +131,7 @@ export default function ShopSingleAreaGallery() {
                     height={400}
                     width={400}
                     className="wa"
-                    src="/images/shop/shop-single-1.png"
+                   // src="/images/shop/shop-single-1.png"
                     alt="product"
                   />
                 </a>
@@ -165,7 +166,8 @@ export default function ShopSingleAreaGallery() {
                 <Image
                   height={90}
                   width={90}
-                  src="/images/shop/shop-single-3.png"
+                  //src="/images/shop/shop-single-3.png"
+                  src="/images/shop/3.png"
                   alt="product"
                 />
               </button>
@@ -180,7 +182,8 @@ export default function ShopSingleAreaGallery() {
                 <Image
                   height={90}
                   width={90}
-                  src="/images/shop/shop-single-4.png"
+                  //src="/images/shop/shop-single-4.png"
+                  src="/images/shop/4.png"
                   alt="product"
                 />
               </button>
@@ -195,7 +198,8 @@ export default function ShopSingleAreaGallery() {
                 <Image
                   height={90}
                   width={90}
-                  src="/images/shop/shop-single-5.png"
+                  //src="/images/shop/shop-single-5.png"
+                  src="/images/shop/7.png"
                   alt="product"
                 />
               </button>
@@ -213,7 +217,8 @@ export default function ShopSingleAreaGallery() {
                 <Image
                   height={90}
                   width={90}
-                  src="/images/shop/shop-single-2.png"
+                  //src="/images/shop/shop-single-2.png"
+                  src="/images/shop/6.png"
                   alt="product"
                 />
               </button>
@@ -228,7 +233,8 @@ export default function ShopSingleAreaGallery() {
                 <Image
                   height={90}
                   width={90}
-                  src="/images/shop/shop-single-3.png"
+                 // src="/images/shop/shop-single-3.png"
+                 src="/images/shop/9.png"
                   alt="product"
                 />
               </button>
@@ -243,7 +249,8 @@ export default function ShopSingleAreaGallery() {
                 <Image
                   height={90}
                   width={90}
-                  src="/images/shop/shop-single-4.png"
+                  //src="/images/shop/shop-single-4.png"
+                  src="/images/shop/6.png"
                   alt="product"
                 />
               </button>
@@ -258,7 +265,8 @@ export default function ShopSingleAreaGallery() {
                 <Image
                   height={90}
                   width={90}
-                  src="/images/shop/shop-single-5.png"
+                  //src="/images/shop/shop-single-5.png"
+                  src="/images/shop/9.png"
                   alt="product"
                 />
               </button>

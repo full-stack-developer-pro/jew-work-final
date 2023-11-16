@@ -34,7 +34,8 @@ export default function About4() {
                           height={55}
                           width={55}
                           className="wa"
-                          src="/images/team/ea-1.png"
+                          //src="/images/team/ea-1.png"
+                          src="/images/testimonials/testi-demo5.png"
                           alt="object"
                         />
                       </div>
@@ -49,7 +50,8 @@ export default function About4() {
                           height={55}
                           width={55}
                           className="wa"
-                          src="/images/team/ea-2.png"
+                          //src="/images/team/ea-2.png"
+                          src="/images/testimonials/testi-demo1.png"
                           alt="object"
                         />
                       </div>
@@ -64,7 +66,8 @@ export default function About4() {
                           height={55}
                           width={55}
                           className="wa"
-                          src="/images/team/ea-3.png"
+                          //src="/images/team/ea-3.png"
+                          src="/images/testimonials/testi-demo3.png"
                           alt="object"
                         />
                       </div>
@@ -79,7 +82,8 @@ export default function About4() {
                           height={55}
                           width={55}
                           className="wa"
-                          src="/images/team/ea-4.png"
+                          //src="/images/team/ea-4.png"
+                          src="/images/testimonials/testi-demo2.png"
                           alt="object"
                         />
                       </div>
@@ -95,7 +99,8 @@ export default function About4() {
                         height={90}
                         width={90}
                         className="rounded-circle mx-auto"
-                        src="/images/team/fl-2.png"
+                        //src="/images/team/fl-2.png"
+                        src="/images/testimonials/testi-demo4.png"
                         alt="object"
                       />
                       <span className="online" />

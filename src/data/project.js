@@ -161,73 +161,85 @@ export const price1 = [
 export const ourTeam1 = [
   {
     id: 1,
-    img: "/images/team/team-1.jpg",
+    //img: "/images/team/team-1.jpg",
+    img: "/images/team/team-demo1.png",
     name: "Cody Fisher",
     skill: "Medical Assistant",
   },
   {
     id: 2,
-    img: "/images/team/team-2.jpg",
+    //img: "/images/team/team-2.jpg",
+    img: "/images/team/team-demo2.png",
     name: "Dianne Russell",
     skill: "Web Designer",
   },
   {
     id: 3,
-    img: "/images/team/team-3.jpg",
+    //img: "/images/team/team-3.jpg",
+    img: "/images/team/team-demo3.png",
     name: "Jerome Bell",
     skill: "Marketing Coordinator",
   },
   {
     id: 4,
-    img: "/images/team/team-4.jpg",
+    //img: "/images/team/team-4.jpg",
+    img: "/images/team/team-demo4.png",
     name: "Theresa Webb",
     skill: "Nursing Assistant",
   },
   {
     id: 5,
-    img: "/images/team/team-5.jpg",
+    //img: "/images/team/team-5.jpg",
+    img: "/images/team/team-demo5.png",
     name: "Cameron Williamson",
     skill: "Dog Trainer",
   },
   {
     id: 6,
-    img: "/images/team/team-1.jpg",
+    //img: "/images/team/team-1.jpg",
+    img: "/images/team/team-demo1.png",
     name: "Cody Fisher",
     skill: "Medical Assistant",
   },
   {
     id: 7,
-    img: "/images/team/team-2.jpg",
+    //img: "/images/team/team-2.jpg",
+    img: "/images/team/team-demo2.png",
     name: "Dianne Russell",
     skill: "Web Designer",
   },
   {
     id: 8,
-    img: "/images/team/team-3.jpg",
+    //img: "/images/team/team-3.jpg",
+    img: "/images/team/team-demo3.png",
     name: "Jerome Bell",
     skill: "Marketing Coordinator",
   },
   {
     id: 9,
-    img: "/images/team/team-4.jpg",
+    //img: "/images/team/team-4.jpg",
+    img: "/images/team/team-demo4.png",
     name: "Theresa Webb",
     skill: "Nursing Assistant",
   },
   {
     id: 10,
-    img: "/images/team/team-5.jpg",
+    //img: "/images/team/team-5.jpg",
+    img: "/images/team/team-demo5.png",
     name: "Cameron Williamson",
     skill: "Dog Trainer",
   },
   {
     id: 11,
-    img: "/images/team/team-1.jpg",
+    //img: "/images/team/team-1.jpg",
+    img: "/images/team/team-demo1.png",
     name: "Cody Fisher",
     skill: "Medical Assistant",
   },
   {
     id: 12,
-    img: "/images/team/team-2.jpg",
+    //img: "/images/team/team-2.jpg",
+    img: "/images/team/team-demo2.jpg",
     name: "Dianne Russell",
     skill: "Web Designer",
   },
@@ -240,7 +252,8 @@ export const testimonial = [
       "Our family embarked on a remarkable bullet train journey in Japan - this hotel's convenient location made it a breeze. Agoda's pricing was fantastic.",
     name: "Emma Johnson",
     company: "Product Manager, Apple Inc",
-    image: "/images/testimonials/testi-1.png",
+    src: "/images/testimonials/testi-demo1.png",
+    
   },
   {
     id: 2,
@@ -248,7 +261,8 @@ export const testimonial = [
       "A Memorable Bullet Train Adventure: Our family's Japan travel experience made easy by this hotel. Agoda's pricing exceeded our expectations.",
     name: "Olivia Smith",
     company: "Travel Blogger",
-    image: "/images/testimonials/testi-2.png",
+    src: "/images/testimonials/testi-demo2.png",
+    
   },
   {
     id: 3,
@@ -256,7 +270,8 @@ export const testimonial = [
       "Unforgettable Japan Journey: Our family traveled by bullet train, and the hotel's strategic location enhanced our experience. Agoda's pricing was a pleasant surprise.",
     name: "Sophia Ramirez",
     company: "Software Engineer",
-    image: "/images/testimonials/testi-3.png",
+    src: "/images/testimonials/testi-demo3.png",
+
   },
   {
     id: 4,
@@ -264,7 +279,8 @@ export const testimonial = [
       "A Wonderful Bullet Train Voyage: Our family explored Japan with ease from this hotel's ideal spot. Agoda's pricing made our trip even better.",
     name: "Isabella Johnson",
     company: "Graphic Designer",
-    image: "/images/testimonials/testi-4.png",
+    src: "/images/testimonials/testi-demo4.png",
+
   },
   {
     id: 5,
@@ -272,7 +288,8 @@ export const testimonial = [
       "An Amazing Japan Journey: Bullet train travel with family was made effortless by the hotel's location. Agoda's pricing added tremendous value.",
     name: "Ava Lee",
     company: "Marketing Manager",
-    image: "/images/testimonials/testi-5.png",
+    src: "/images/testimonials/testi-demo5.png",
+
   },
 ];
 export const browserCategory2 = [

@@ -9,15 +9,23 @@ import { FreeMode, Navigation, Thumbs } from "swiper";
 import Image from "next/image";
 
 const gigImages = [
-  "/images/about/employee-single-1.jpg",
-  "/images/about/employee-single-1.jpg",
-  "/images/about/employee-single-1.jpg",
+  //"/images/about/employee-single-1.jpg",
+  //"/images/about/employee-single-1.jpg",
+  //"/images/about/employee-single-1.jpg",
+  "/images/about/employee-single-demo1.png",
+  "/images/about/employee-single-demo1.png",
+  "/images/about/employee-single-demo1.png",
 ];
 
 const gigImagesSmall = [
-  "/images/about/employee-single-2.jpg",
-  "/images/about/employee-single-3.jpg",
-  "/images/about/employee-single-4.jpg",
+  //"/images/about/employee-single-2.jpg",
+  //"/images/about/employee-single-3.jpg",
+  //"/images/about/employee-single-4.jpg",
+  "/images/about/employee-single-demo2.png",
+  "/images/about/employee-single-demo3.png",
+  "/images/about/employee-single-demo4.png",
+  "/images/about/employee-single-demo5.png",
+  "/images/about/employee-single-demo6.png",
 ];
 
 export default function EmployeeDetailSlider1() {

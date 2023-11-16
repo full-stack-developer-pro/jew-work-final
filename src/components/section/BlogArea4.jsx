@@ -31,6 +31,7 @@ export default function BlogArea4() {
                       width={40}
                       className="mr10 object-fit-contain"
                       src={blogSingle?.author.img}
+
                       alt="img"
                     />
                     <a className="pr15 body-light-color">Leslie Alexander</a>
@@ -45,7 +46,8 @@ export default function BlogArea4() {
                       height={40}
                       width={40}
                       className="mr10 object-fit-contain"
-                      src="/images/blog/author-1.png"
+                      //src="/images/blog/author-1.png"
+                      src="/images/blog/fl-d-demo1.png"
                       alt="img"
                     />
                     <a className="pr15 body-light-color">Leslie Alexander</a>
@@ -81,7 +83,8 @@ export default function BlogArea4() {
                     height={530}
                     width={1501}
                     className="w-100 h-100 bdrs16 object-fit-conver"
-                    src="/images/blog/blog-single-1.jpg"
+                    //src="/images/blog/blog-single-1.jpg"
+                    src="/images/blog/blog-single-demo1.png"
                     alt="single blog"
                   />
                 )}
@@ -190,7 +193,8 @@ export default function BlogArea4() {
                 <Image
                   height={456}
                   width={937}
-                  src="/images/blog/blog-single-2.jpg"
+                  //src="/images/blog/blog-single-2.jpg"
+                  src="/images/blog/blog-single-demo2.png"
                   alt="blog-single"
                   className="bdrs4 post-img-2 w-100 h-100 object-fit-contain"
                 />
@@ -238,7 +242,8 @@ export default function BlogArea4() {
                     <Image
                       height={70}
                       width={70}
-                      src="/images/blog/comments-1.png"
+                      //src="/images/blog/comments-1.png"
+                      src="/images/blog/comment-demo1.png"
                       className="mr-3"
                       alt="comments-1.png"
                     />

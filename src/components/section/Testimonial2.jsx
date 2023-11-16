@@ -84,7 +84,9 @@ export default function Testimonial2() {
                           height={70}
                           width={70}
                           className="rounded-circle h-100"
-                          src="/images/testimonials/1.jpg"
+                          //src="/images/testimonials/1.jpg"
+                          src="/images/testimonials/testi-demo1.png"
+
                           alt="1.jpg"
                         />
                         <h6 className="title ml30 ml15-xl mb-0">
@@ -107,7 +109,8 @@ export default function Testimonial2() {
                           height={70}
                           width={70}
                           className="rounded-circle h-100"
-                          src="/images/testimonials/2.jpg"
+                          //src="/images/testimonials/2.jpg"
+                          src="/images/testimonials/testi-demo2.png"
                           alt="2.jpg"
                         />
                         <h6 className="title ml30 ml15-xl mb-0">
@@ -130,7 +133,8 @@ export default function Testimonial2() {
                           height={70}
                           width={70}
                           className="rounded-circle h-100"
-                          src="/images/testimonials/3.jpg"
+                          //src="/images/testimonials/3.jpg"
+                          src="/images/testimonials/testi-demo3.png"
                           alt="3.jpg"
                         />
                         <h6 className="title ml30 ml15-xl mb-0">

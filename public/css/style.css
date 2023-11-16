@@ -5705,7 +5705,7 @@ section {
   transition: all 0.4s ease;
 }
 .iconbox-style9 .icon {
-  color: #1F4B3F;
+  /* color: #1F4B3F; */
   display: block;
   font-size: 40px;
   -webkit-transition: all 0.4s ease;

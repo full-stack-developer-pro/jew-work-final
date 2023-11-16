@@ -36,9 +36,10 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     gallery: [
-      "/images/listings/g-2.jpg",
-      "/images/listings/g-1.jpg",
-      "/images/listings/g-3.jpg",
+      //"/images/listings/g-2.jpg",
+     // "/images/listings/g-1.jpg",
+     // "/images/listings/g-3.jpg",
+     "/images/listings/gdemo-2.png",
     ],
     author: {
       img: "/images/team/fl-s-2.png",
@@ -245,9 +246,11 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     gallery: [
-      "/images/listings/g-2.jpg",
-      "/images/listings/g-1.jpg",
-      "/images/listings/g-3.jpg",
+     // "/images/listings/g-2.jpg",
+     // "/images/listings/g-1.jpg",
+     //"/images/listings/g-3.jpg",
+     "/images/listings/gdemo-2.png",
+
     ],
     author: {
       img: "/images/team/fl-s-2.png",
@@ -431,9 +434,14 @@ export const shopProduct1 = [
     tag: "business,seo",
     gallery: [
       "/images/shop/1.png",
-      "/images/shop/shop-single-1.png",
-      "/images/shop/shop-single-1.png",
-      "/images/shop/shop-single-1.png",
+      "/images/shop/3.png",
+      "/images/shop/4.png",
+      "/images/shop/7.png",
+
+
+      //"/images/shop/shop-single-1.png",
+      //"/images/shop/shop-single-1.png",
+      //"/images/shop/shop-single-1.png",
     ],
     author: {
       img: "/images/team/fl-s-1.png",
@@ -867,7 +875,8 @@ export const projectProposal1 = [
 export const employee = [
   {
     id: 1,
-    img: "/images/team/client-1.png",
+    //img: "/images/team/client-1.png",
+    img: "/images/team/client-demo1.png",
     server: "Mailchimp",
     rating: 4.9,
     reviews: 595,
@@ -879,7 +888,8 @@ export const employee = [
   },
   {
     id: 2,
-    img: "/images/team/client-2.png",
+    //img: "/images/team/client-2.png",
+    img: "/images/team/client-demo2.png",
     server: "Mailchimp",
     rating: 4.5,
     reviews: 200,
@@ -891,7 +901,8 @@ export const employee = [
   },
   {
     id: 3,
-    img: "/images/team/client-3.png",
+    //img: "/images/team/client-3.png",
+    img: "/images/team/client-demo3.png",
     server: "Mailchimp",
     rating: 3.8,
     reviews: 120,
@@ -903,7 +914,8 @@ export const employee = [
   },
   {
     id: 4,
-    img: "/images/team/client-4.png",
+    //img: "/images/team/client-4.png",
+    img: "/images/team/client-demo4.png",
     server: "Mailchimp",
     rating: 4.2,
     reviews: 350,
@@ -915,7 +927,8 @@ export const employee = [
   },
   {
     id: 5,
-    img: "/images/team/client-5.png",
+    //img: "/images/team/client-5.png",
+    img: "/images/team/client-demo5.png",
     server: "Mailchimp",
     rating: 4.7,
     reviews: 420,
@@ -927,7 +940,8 @@ export const employee = [
   },
   {
     id: 6,
-    img: "/images/team/client-6.png",
+    //img: "/images/team/client-6.png",
+    img: "/images/team/client-demo6.png",
     server: "Mailchimp",
     rating: 3.5,
     reviews: 90,
@@ -939,7 +953,8 @@ export const employee = [
   },
   {
     id: 7,
-    img: "/images/team/client-7.png",
+    //img: "/images/team/client-7.png",
+    img: "/images/team/client-demo7.png",
     server: "Mailchimp",
     rating: 4.6,
     reviews: 280,
@@ -951,7 +966,8 @@ export const employee = [
   },
   {
     id: 8,
-    img: "/images/team/client-8.png",
+    //img: "/images/team/client-8.png",
+    img: "/images/team/client-demo8.png",
     server: "Mailchimp",
     rating: 4.3,
     reviews: 150,
@@ -963,7 +979,8 @@ export const employee = [
   },
   {
     id: 9,
-    img: "/images/team/client-1.png",
+    //img: "/images/team/client-1.png",
+    img: "/images/team/client-demo1.png",
     server: "Mailchimp",
     rating: 3.9,
     reviews: 60,
@@ -975,7 +992,8 @@ export const employee = [
   },
   {
     id: 10,
-    img: "/images/team/client-2.png",
+    //img: "/images/team/client-2.png",
+    img: "/images/team/client-demo2.png",
     server: "Mailchimp",
     rating: 4.8,
     reviews: 410,
@@ -987,7 +1005,8 @@ export const employee = [
   },
   {
     id: 11,
-    img: "/images/team/client-3.png",
+    //img: "/images/team/client-3.png",
+    img: "/images/team/client-demo3.png",
     server: "Mailchimp",
     rating: 4.0,
     reviews: 180,
@@ -999,7 +1018,8 @@ export const employee = [
   },
   {
     id: 12,
-    img: "/images/team/client-4.png",
+    //img: "/images/team/client-4.png",
+    img: "/images/team/client-demo4.png",
     server: "Mailchimp",
     rating: 4.6,
     reviews: 320,
@@ -1011,7 +1031,8 @@ export const employee = [
   },
   {
     id: 13,
-    img: "/images/team/client-5.png",
+    //img: "/images/team/client-5.png",
+    img: "/images/team/client-demo5.png",
     server: "Mailchimp",
     rating: 4.1,
     reviews: 260,
@@ -1023,7 +1044,8 @@ export const employee = [
   },
   {
     id: 14,
-    img: "/images/team/client-6.png",
+    //img: "/images/team/client-6.png",
+    img: "/images/team/client-demo6.png",
     server: "Mailchimp",
     rating: 4.4,
     reviews: 390,
@@ -1035,7 +1057,8 @@ export const employee = [
   },
   {
     id: 15,
-    img: "/images/team/client-7.png",
+    //img: "/images/team/client-7.png",
+    img: "/images/team/client-demo7.png",
     server: "Mailchimp",
     rating: 4.9,
     reviews: 480,
@@ -1047,7 +1070,8 @@ export const employee = [
   },
   {
     id: 16,
-    img: "/images/team/client-8.png",
+    //img: "/images/team/client-8.png",
+    img: "/images/team/client-demo8.png",
     server: "Mailchimp",
     rating: 3.7,
     reviews: 110,
@@ -1062,7 +1086,8 @@ export const employee = [
 export const freelancer1 = [
   {
     id: 1,
-    img: "/images/team/fl-1.png",
+    //img: "/images/team/fl-1.png",
+    img: "/images/team/fl-demo1.png",
     name: "Robert Fox",
     profession: "Nursing Assistant",
     rating: 4.9,
@@ -1078,7 +1103,8 @@ export const freelancer1 = [
   },
   {
     id: 2,
-    img: "/images/team/fl-2.png",
+    //img: "/images/team/fl-2.png",
+    img: "/images/team/fl-demo2.png",
     name: "Jane Doe",
     profession: "Graphic Designer",
     rating: 4.8,
@@ -1094,7 +1120,8 @@ export const freelancer1 = [
   },
   {
     id: 3,
-    img: "/images/team/fl-3.png",
+    //img: "/images/team/fl-3.png",
+    img: "/images/team/fl-demo3.png",
     name: "Michael Johnson",
     profession: "Web Developer",
     rating: 4.7,
@@ -1110,7 +1137,8 @@ export const freelancer1 = [
   },
   {
     id: 4,
-    img: "/images/team/fl-4.png",
+    //img: "/images/team/fl-4.png",
+    img: "/images/team/fl-demo4.png",
     name: "Emily Williams",
     profession: "Content Writer",
     rating: 4.6,
@@ -1127,7 +1155,8 @@ export const freelancer1 = [
   },
   {
     id: 5,
-    img: "/images/team/fl-1.png",
+    //img: "/images/team/fl-1.png",
+    img: "/images/team/fl-demo1.png",
     name: "David Smith",
     profession: "Photographer",
     rating: 4.9,
@@ -1143,7 +1172,8 @@ export const freelancer1 = [
   },
   {
     id: 6,
-    img: "/images/team/fl-2.png",
+    //img: "/images/team/fl-2.png",
+    img: "/images/team/fl-demo2.png",
     name: "Sophia Brown",
     profession: "UI/UX Designer",
     rating: 4.8,
@@ -1160,7 +1190,8 @@ export const freelancer1 = [
   },
   {
     id: 7,
-    img: "/images/team/fl-3.png",
+    //img: "/images/team/fl-3.png",
+    img: "/images/team/fl-demo3.png",
     name: "Daniel Wilson",
     profession: "Video Editor",
     rating: 4.7,
@@ -1177,7 +1208,8 @@ export const freelancer1 = [
   },
   {
     id: 8,
-    img: "/images/team/fl-4.png",
+    //img: "/images/team/fl-4.png",
+    img: "/images/team/fl-demo4.png",
     name: "Olivia Taylor",
     profession: "Social Media Manager",
     rating: 4.9,
@@ -1194,7 +1226,8 @@ export const freelancer1 = [
   },
   {
     id: 9,
-    img: "/images/team/fl-1.png",
+    //img: "/images/team/fl-1.png",
+    img: "/images/team/fl-demo1.png",
     name: "William Clark",
     profession: "Mobile App Developer",
     rating: 4.6,
@@ -1211,7 +1244,8 @@ export const freelancer1 = [
   },
   {
     id: 10,
-    img: "/images/team/fl-2.png",
+    //img: "/images/team/fl-2.png",
+    img: "/images/team/fl-demo2.png",
     name: "Ava Turner",
     profession: "Illustrator",
     rating: 4.8,
@@ -1228,7 +1262,8 @@ export const freelancer1 = [
   },
   {
     id: 11,
-    img: "/images/team/fl-3.png",
+    //img: "/images/team/fl-3.png",
+    img: "/images/team/fl-demo3.png",
     name: "James Rodriguez",
     profession: "Copywriter",
     rating: 4.7,
@@ -1244,7 +1279,8 @@ export const freelancer1 = [
   },
   {
     id: 12,
-    img: "/images/team/fl-4.png",
+    //img: "/images/team/fl-4.png",
+    img: "/images/team/fl-demo4.png",
     name: "Ella Martinez",
     profession: "SEO Specialist",
     rating: 4.9,

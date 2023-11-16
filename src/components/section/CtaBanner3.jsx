@@ -66,7 +66,8 @@ export default function CtaBanner3() {
                     height={705}
                     width={691}
                     className="w100 h-100"
-                    src="/images/about/about-6.jpg"
+                    //src="/images/about/about-6.jpg"
+                    src="/images/about/aboutdemo-19.png"
                     alt="about 6"
                   />
                 </div>

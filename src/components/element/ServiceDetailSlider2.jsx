@@ -9,12 +9,16 @@ import { FreeMode, Navigation, Thumbs } from "swiper";
 import Image from "next/image";
 
 const gigImages = [
-  "/images/listings/service-details-1.jpg",
-  "/images/listings/service-details-1.jpg",
-  "/images/listings/service-details-1.jpg",
+ // "/images/listings/service-details-1.jpg",
+ // "/images/listings/service-details-1.jpg",
+ // "/images/listings/service-details-1.jpg",
+  "/images/listings/service-details-demo1.png",
+  "/images/listings/service-details-demo1.png",
+  "/images/listings/service-details-demo1.png",
+
 ];
 
-export default function ServiceDetailSlider2() {
+export default function ServiceDetailSlider1() {
   const [thumbsSwiper, setThumbsSwiper] = useState(null);
   const [showSwiper, setShowSwiper] = useState(false);
   useEffect(() => {
@@ -24,6 +28,7 @@ export default function ServiceDetailSlider2() {
   return (
     <>
       <div className="scrollbalance-inner">
+        
         <div className="service-single-sldier vam_nav_style slider-1-grid owl-carousel owl-theme mb60 owl-loaded owl-drag">
           <div className="thumb p50 p30-sm">
             {showSwiper && (

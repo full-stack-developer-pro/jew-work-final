@@ -11,7 +11,8 @@ export default function ServiceContactWidget1() {
               height={90}
               width={90}
               className="rounded-circle mx-auto"
-              src="/images/team/fl-1.png"
+              //src="/images/team/fl-1.png"
+              src="/images/team/fl-demo1.png"
               alt="rounded-circle"
             />
             <span className="online" />

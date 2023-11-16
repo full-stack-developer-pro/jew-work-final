@@ -25,7 +25,9 @@ export default function BlogCard4({ data, index }) {
                 height={60}
                 width={60}
                 className="mr10 object-fit-contain"
-                src={data.author.img}
+                //src={data.author.img}
+                src="/images/blog/fl-d-demo1.png"
+
                 alt="avatar"
               />
               <a className="pr15 body-light-color">{data.author.name}</a>

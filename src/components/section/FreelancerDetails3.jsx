@@ -38,7 +38,9 @@ export default function FreelancerDetail3() {
                                 height={90}
                                 className="rounded-circle w-100 wa-sm mb15-sm"
                                 src={
-                                  data?.img ? data.img : "/images/team/fl-1.png"
+                                  //data?.img ? data.img : "/images/team/fl-1.png"
+                                  data?.img ? data.img : "/images/team/fl-demo1.png"
+
                                 }
                                 alt="Freelancer Photo"
                               />

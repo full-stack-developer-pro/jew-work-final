@@ -1,7 +1,8 @@
 export const job1 = [
   {
     id: 1,
-    img: "/images/team/client-2.png",
+    //img: "/images/team/client-2.png",
+    img: "/images/team/client-demo2.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -13,7 +14,8 @@ export const job1 = [
   },
   {
     id: 2,
-    img: "/images/team/client-1.png",
+    //img: "/images/team/client-1.png",
+    img: "/images/team/client-demo1.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -25,7 +27,8 @@ export const job1 = [
   },
   {
     id: 3,
-    img: "/images/team/client-3.png",
+    //img: "/images/team/client-3.png",
+    img: "/images/team/client-demo3.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -37,7 +40,8 @@ export const job1 = [
   },
   {
     id: 4,
-    img: "/images/team/client-4.png",
+    //img: "/images/team/client-4.png",
+    img: "/images/team/client-demo4.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -49,7 +53,8 @@ export const job1 = [
   },
   {
     id: 5,
-    img: "/images/team/client-5.png",
+    //img: "/images/team/client-5.png",
+    img: "/images/team/client-demo5.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -61,7 +66,8 @@ export const job1 = [
   },
   {
     id: 6,
-    img: "/images/team/client-6.png",
+    //img: "/images/team/client-6.png",
+    img: "/images/team/client-demo6.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -73,7 +79,8 @@ export const job1 = [
   },
   {
     id: 7,
-    img: "/images/team/client-7.png",
+    //img: "/images/team/client-7.png",
+    img: "/images/team/client-demo7.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -85,7 +92,8 @@ export const job1 = [
   },
   {
     id: 8,
-    img: "/images/team/client-8.png",
+    //img: "/images/team/client-8.png",
+    img: "/images/team/client-demo8.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -97,7 +105,8 @@ export const job1 = [
   },
   {
     id: 9,
-    img: "/images/team/client-2.png",
+    //img: "/images/team/client-2.png",
+    img: "/images/team/client-demo2.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -109,7 +118,8 @@ export const job1 = [
   },
   {
     id: 10,
-    img: "/images/team/client-2.png",
+    //img: "/images/team/client-2.png",
+    img: "/images/team/client-demo2.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -121,7 +131,8 @@ export const job1 = [
   },
   {
     id: 11,
-    img: "/images/team/client-1.png",
+    //img: "/images/team/client-1.png",
+    img: "/images/team/client-demo1.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -133,7 +144,8 @@ export const job1 = [
   },
   {
     id: 12,
-    img: "/images/team/client-3.png",
+    //img: "/images/team/client-3.png",
+    img: "/images/team/client-demo3.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -145,7 +157,8 @@ export const job1 = [
   },
   {
     id: 13,
-    img: "/images/team/client-4.png",
+    //img: "/images/team/client-4.png",
+    img: "/images/team/client-demo4.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -157,7 +170,8 @@ export const job1 = [
   },
   {
     id: 14,
-    img: "/images/team/client-5.png",
+    //img: "/images/team/client-5.png",
+    img: "/images/team/client-demo5.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -169,7 +183,8 @@ export const job1 = [
   },
   {
     id: 15,
-    img: "/images/team/client-6.png",
+    //img: "/images/team/client-6.png",
+    img: "/images/team/client-demo6.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],
@@ -181,7 +196,8 @@ export const job1 = [
   },
   {
     id: 16,
-    img: "/images/team/client-7.png",
+    //img: "/images/team/client-7.png",
+    img: "/images/team/client-demo7.png",
     title: "Website Designer Required For Directory Theme",
     server: "Mailchimp",
     benefits: ["$125k-$135k Hourly", "1-5 Days", "Expensive", "Remote"],

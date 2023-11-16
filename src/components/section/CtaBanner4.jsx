@@ -12,11 +12,12 @@ export default function CtaBanner4() {
           height={701}
           width={717}
           className="cta-about2-img d-none d-xl-block h-100 object-fit-contain"
-          src={
-            path === "/about-2"
-              ? "/images/about/about-7.jpg"
-              : path === "/home-3" && "/images/about/about-9.jpg"
-          }
+          // src={
+          //   path === "/about-2"
+          //     ? "/images/about/about-7.jpg"
+          //     : path === "/home-3" && "/images/about/about-9.jpg"
+          // }
+          src="/images/about/about-demo2.png"
           alt="about"
         />
         <div className="container">

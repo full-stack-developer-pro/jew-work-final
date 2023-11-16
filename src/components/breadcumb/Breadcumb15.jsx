@@ -43,7 +43,8 @@ export default function Breadcumb15() {
                           height={120}
                           width={120}
                           className="rounded-circle w-100 wa-sm mb15-sm"
-                          src="/images/team/employee-single.png"
+                          //src="/images/team/employee-single.png"
+                          src="/images/team/employee-singledemo.png"
                           alt="Freelancer Photo"
                         />
                       )}

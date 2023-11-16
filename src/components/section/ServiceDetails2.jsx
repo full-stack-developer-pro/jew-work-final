@@ -44,7 +44,8 @@ export default function ServiceDetail2() {
                                 width={40}
                                 height={40}
                                 className="rounded-circle"
-                                src="/images/team/fl-d-1.png"
+                                //src="/images/team/fl-d-1.png"
+                                src="/images/team/fl-d-demo1.png"
                                 alt="Freelancer Photo"
                               />
                               <span className="online-badge"></span>

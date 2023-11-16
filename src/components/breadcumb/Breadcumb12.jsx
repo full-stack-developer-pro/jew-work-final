@@ -42,7 +42,8 @@ export default function Breadcumb12() {
             height={300}
             width={532}
             className="service-v1-vector bounce-y d-none d-xl-block"
-            src="/images/vector-img/vector-service-v1.png"
+            //src="/images/vector-img/vector-service-v1.png"
+            src="/images/vector-img/vector-service-demov1.png"
             alt="vector-service"
           />
           <div className="container">

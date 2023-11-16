@@ -45,7 +45,8 @@ export default function Breadcumb13() {
                             height={100}
                             width={100}
                             className="wa"
-                            src="/images/team/job-single.png"
+                            //src="/images/team/job-single.png"
+                            src="/images/team/job-demosingle.png"
                             alt="job-single"
                           />
                         )}

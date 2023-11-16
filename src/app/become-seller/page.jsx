@@ -18,8 +18,7 @@ export default function page() {
     
       <Breadcumb1
         title={"Work Your Way"}
-        brief={` Give your visitor a smooth online
-                                        experience with a solid UX design.`}
+        brief={` Give your visitor a smooth online experience with a solid UX design.`}
         isBtnActive={true}
       />
       <AboutArea1 />

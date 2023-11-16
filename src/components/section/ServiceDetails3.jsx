@@ -4,7 +4,7 @@ import ServiceDetailExtra1 from "../element/ServiceDetailExtra1";
 import ServiceDetailFaq1 from "../element/ServiceDetailFaq1";
 import ServiceDetailPrice1 from "../element/ServiceDetailPrice1";
 import ServiceDetailReviewInfo1 from "../element/ServiceDetailReviewInfo1";
-import ServiceDetailSlider1 from "../element/ServiceDetailSlider1";
+//import ServiceDetailSlider1 from "../element/ServiceDetailSlider1";
 import { Sticky, StickyContainer } from "react-sticky";
 import useScreen from "@/hook/useScreen";
 import ServiceContactWidget1 from "../element/ServiceContactWidget1";
@@ -12,6 +12,7 @@ import ServiceDetailSlider2 from "../element/ServiceDetailSlider2";
 import Image from "next/image";
 import { useParams } from "next/navigation";
 import { product1 } from "@/data/product";
+//import ServiceDetailSlider1 from "../element/ServiceDetailSlider1";
 
 export default function ServiceDetail3() {
   const isMatchedScreen = useScreen(1216);
@@ -44,7 +45,8 @@ export default function ServiceDetail3() {
                                 width={40}
                                 height={40}
                                 className="rounded-circle"
-                                src="/images/team/fl-d-1.png"
+                                //src="/images/team/fl-d-1.png"
+                                src="/images/team/fl-d-demo1.png"
                                 alt="Freelancer Photo"
                               />
                               <span className="online-badge"></span>
@@ -67,7 +69,7 @@ export default function ServiceDetail3() {
                       </div>
                     </div>
                     <div className="row">
-                      <div className="col-sm-6 col-md-4">
+                       <div className="col-sm-6 col-md-4">
                         <div className="iconbox-style1 contact-style d-flex align-items-start mb30">
                           <div className="icon flex-shrink-0">
                             <span className="flaticon-calendar" />
@@ -77,8 +79,8 @@ export default function ServiceDetail3() {
                             <p className="mb-0 text">1-3 Days</p>
                           </div>
                         </div>
-                      </div>
-                      <div className="col-sm-6 col-md-4">
+                      </div> 
+                       <div className="col-sm-6 col-md-4">
                         <div className="iconbox-style1 contact-style d-flex align-items-start mb30">
                           <div className="icon flex-shrink-0">
                             <span className="flaticon-goal" />
@@ -88,8 +90,8 @@ export default function ServiceDetail3() {
                             <p className="mb-0 text">Professional</p>
                           </div>
                         </div>
-                      </div>
-                      <div className="col-sm-6 col-md-4">
+                      </div> 
+                       <div className="col-sm-6 col-md-4">
                         <div className="iconbox-style1 contact-style d-flex align-items-start mb30">
                           <div className="icon flex-shrink-0">
                             <span className="flaticon-tracking" />
@@ -99,11 +101,12 @@ export default function ServiceDetail3() {
                             <p className="mb-0 text">New York</p>
                           </div>
                         </div>
-                      </div>
+                      </div> 
                     </div>
                   </div>
 
-                  <ServiceDetailSlider2 />
+                   <ServiceDetailSlider2 /> 
+                  {/* <ServiceDetailSlider1 />  */}
                   <div className="service-about">
                     <div className="px30 bdr1 pt30 pb-0 mb30 bg-white bdrs12 wow fadeInUp default-box-shadow1">
                       <h4>About</h4>

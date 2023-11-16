@@ -25,7 +25,8 @@ export default function Comment1() {
                 <Image
                   height={60}
                   width={60}
-                  src="/images/blog/comments-2.png"
+                  //src="/images/blog/comments-2.png"
+                  src="/images/blog/comment-demo2.png"
                   className="mr-3 object-fit-contain"
                   alt="comments-2.png"
                 />
@@ -60,7 +61,8 @@ export default function Comment1() {
                 <Image
                   height={60}
                   width={60}
-                  src="/images/blog/comments-2.png"
+                  //src="/images/blog/comments-2.png"
+                  src="/images/blog/fl-d-demo1.png"
                   className="mr-3 object-fit-contain"
                   alt="comments-2.png"
                 />

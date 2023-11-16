@@ -30,7 +30,9 @@ export default function Breadcumb8() {
             height={300}
             width={532}
             className="service-v1-vector bounce-y d-none d-xl-block"
-            src="/images/vector-img/vector-service-v1.png"
+            //src="/images/vector-img/vector-service-v1.png"
+            src="/images/vector-img/vector-service-demov1.png"
+
             alt="vector-service"
           />
           <div className="container">
@@ -64,7 +66,8 @@ export default function Breadcumb8() {
                             height={40}
                             width={40}
                             className="rounded-circle"
-                            src="/images/team/fl-d-1.png"
+                            //src="/images/team/fl-d-1.png"
+                            src="/images/about/about-demo4.png"
                             alt="Freelancer Photo"
                           />
                           <span className="online-badge" />

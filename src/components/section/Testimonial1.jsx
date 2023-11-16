@@ -61,7 +61,7 @@ export default function Testimonial1() {
                               <Image
                                 height={70}
                                 width={70}
-                                src={item.image}
+                                src={item.src}
                                 alt="user"
                                 className="h-auto w-100 rounded-circle"
                               />

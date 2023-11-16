@@ -16,7 +16,8 @@ export default function About5() {
                   height={574}
                   width={691}
                   className="w100 h-100"
-                  src="/images/about/about-1.png"
+                  //src="/images/about/about-1.png"
+                  src="/images/about/about-demo12.png"
                   alt="about"
                 />
               </div>

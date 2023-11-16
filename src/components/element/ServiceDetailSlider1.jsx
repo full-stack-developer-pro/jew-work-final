@@ -9,9 +9,13 @@ import { FreeMode, Navigation, Thumbs } from "swiper";
 import Image from "next/image";
 
 const gigImages = [
-  "/images/listings/service-details-1.jpg",
-  "/images/listings/service-details-1.jpg",
-  "/images/listings/service-details-1.jpg",
+ // "/images/listings/service-details-1.jpg",
+ // "/images/listings/service-details-1.jpg",
+ // "/images/listings/service-details-1.jpg",
+  "/images/listings/service-details-demo1.png",
+  "/images/listings/service-details-demo1.png",
+  "/images/listings/service-details-demo1.png",
+
 ];
 
 export default function ServiceDetailSlider1() {
