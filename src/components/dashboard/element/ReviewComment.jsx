@@ -9,7 +9,7 @@ export default function ReviewComment({ i, lenght }) {
           <Image
             height={60}
             width={60}
-            src="/images/blog/comments-2.png"
+            src="/images/blog/comment-demo1.png"
             className="mr-3"
             alt="comments-2.png"
           />

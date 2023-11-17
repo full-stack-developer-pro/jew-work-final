@@ -11734,7 +11734,8 @@ input:focus-visible {
 .table-style3 .icon {
   background-color: #FFEDE8;
   border-radius: 4px;
-  color: #1F4B3F;
+  /* color: #1F4B3F; */
+  color:#005EB8;
   display: block;
   height: 40px;
   line-height: 45px;

@@ -10,7 +10,8 @@ export default function MessageBox() {
               height={50}
               width={50}
               className="img-fluid mr10"
-              src="/images/inbox/ms3.png"
+              //src="/images/inbox/ms3.png"
+              src="/images/inbox/msdemo3.png"
               alt="ms3.png"
             />
             <div className="meta d-sm-flex justify-content-sm-between align-items-center">
@@ -34,7 +35,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms4.png"
+                  //src="/images/inbox/ms4.png"
+                  src="/images/inbox/msdemo1.png"
                   alt="ms4.png"
                 />
                 <div className="title fz15">
@@ -55,7 +57,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-end ml10"
-                  src="/images/inbox/ms5.png"
+                  //src="/images/inbox/ms5.png"
+                  src="/images/inbox/msdemo4.png"
                   alt="ms5.png"
                 />
               </div>
@@ -70,7 +73,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms5.png"
+                  //src="/images/inbox/ms5.png"
+                  src="/images/inbox/msdemo4.png"
                   alt="ms5.png"
                 />
                 <div className="title fz15">
@@ -88,7 +92,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-end ml10"
-                  src="/images/inbox/ms5.png"
+                  //src="/images/inbox/ms5.png"
+                  src="/images/inbox/msdemo4.png"
                   alt="ms5.png"
                 />
               </div>
@@ -100,7 +105,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms2.png"
+                  //src="/images/inbox/ms2.png"
+                  src="/images/inbox/msdemo2.png"
                   alt="ms2.png"
                 />
                 <div className="title fz15">
@@ -115,7 +121,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms2.png"
+                  //src="/images/inbox/ms2.png"
+                  src="/images/inbox/msdemo2.png"
                   alt="ms2.png"
                 />
                 <div className="title fz15">
@@ -133,7 +140,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms2.png"
+                  //src="/images/inbox/ms2.png"
+                  src="/images/inbox/msdemo2.png"
                   alt="ms2.png"
                 />
                 <div className="title fz15">
@@ -151,7 +159,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-end ml10"
-                  src="/images/inbox/ms3.png"
+                  //src="/images/inbox/ms3.png"
+                  src="/images/inbox/msdemo3.png"
                   alt="ms3.png"
                 />
               </div>
@@ -169,7 +178,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-end ml10"
-                  src="/images/inbox/ms3.png"
+                  //src="/images/inbox/ms3.png"
+                  src="/images/inbox/msdemo3.png"
                   alt="ms3.png"
                 />
               </div>
@@ -184,7 +194,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-end ml10"
-                  src="/images/inbox/ms3.png"
+                  //src="/images/inbox/ms3.png"
+                  src="/images/inbox/msdemo3.png"
                   alt="ms3.png"
                 />
               </div>
@@ -196,7 +207,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms2.png"
+                  //src="/images/inbox/ms2.png"
+                  src="/images/inbox/msdemo2.png"
                   alt="ms2.png"
                 />
                 <div className="title fz15">
@@ -211,7 +223,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms2.png"
+                  //src="/images/inbox/ms2.png"
+                  src="/images/inbox/msdemo2.png"
                   alt="ms2.png"
                 />
                 <div className="title fz15">
@@ -232,7 +245,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-end ml10"
-                  src="/images/inbox/ms3.png"
+                  //src="/images/inbox/ms3.png"
+                  src="/images/inbox/msdemo3.png"
                   alt="ms3.png"
                 />
               </div>
@@ -247,7 +261,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-end ml10"
-                  src="/images/inbox/ms3.png"
+                  //src="/images/inbox/ms3.png"
+                  src="/images/inbox/msdemo3.png"
                   alt="ms3.png"
                 />
               </div>
@@ -259,7 +274,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms2.png"
+                  //src="/images/inbox/ms2.png"
+                  src="/images/inbox/msdemo2.png"
                   alt="ms2.png"
                 />
                 <div className="title fz15">
@@ -274,7 +290,8 @@ export default function MessageBox() {
                   height={50}
                   width={50}
                   className="img-fluid rounded-circle align-self-start mr10"
-                  src="/images/inbox/ms2.png"
+                  //src="/images/inbox/ms2.png"
+                  src="/images/inbox/msdemo2.png"
                   alt="ms2.png"
                 />
                 <div className="title fz15">

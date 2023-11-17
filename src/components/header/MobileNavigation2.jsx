@@ -13,7 +13,7 @@ export default function MobileNavigation2() {
                   <Image
                     height={40}
                     width={133}
-                    src="/images/header-logo3.svg"
+                    //src="/images/header-logo3.svg"
                     alt="Header Logo"
                   />
                 </Link>

@@ -28,7 +28,8 @@ export default function Breadcumb5() {
             height={300}
             width={400}
             className="service-v3-vector d-none d-lg-block"
-            src="/images/about/about-4.png"
+            //src="/images/about/about-4.png"
+            src="/images/about/about-demo4.png"
             alt="about"
           />
           <div className="container">

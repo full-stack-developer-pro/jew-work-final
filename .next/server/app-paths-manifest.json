@@ -1,9 +1,7 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/become-seller/page": "app/become-seller/page.js",
-  "/[...not_found]/page": "app/[...not_found]/page.js",
-  "/(service)/service-single/page": "app/(service)/service-single/page.js",
+  "/(blog)/blog-3/page": "app/(blog)/blog-3/page.js",
+  "/(about)/about-2/page": "app/(about)/about-2/page.js",
   "/(about)/about-1/page": "app/(about)/about-1/page.js",
-  "/(service)/service-3/page": "app/(service)/service-3/page.js",
-  "/(about)/about-2/page": "app/(about)/about-2/page.js"
+  "/(blog)/blog-single/page": "app/(blog)/blog-single/page.js",
+  "/(blog)/blog-2/page": "app/(blog)/blog-2/page.js"
 }

@@ -10,7 +10,8 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     author: {
-      img: "/images/team/fl-s-1.png",
+      //img: "/images/team/fl-s-1.png",
+      img: "/images/team/fl-d-demo1.png",
       name: "Wanda Runo",
     },
     price: 983,
@@ -42,7 +43,8 @@ export const product1 = [
      "/images/listings/gdemo-2.png",
     ],
     author: {
-      img: "/images/team/fl-s-2.png",
+      //img: "/images/team/fl-s-2.png",
+      img: "/images/team/fl-demo1.png",
       name: "Ali Tufan",
     },
     price: 983,
@@ -69,7 +71,8 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     author: {
-      img: "/images/team/fl-s-3.png",
+      //img: "/images/team/fl-s-3.png",
+      img: "/images/team/fl-d-demo1.png",
       name: "Wanda Runo",
     },
     price: 983,
@@ -95,7 +98,8 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     author: {
-      img: "/images/team/fl-s-4.png",
+      //img: "/images/team/fl-s-4.png",
+      img: "/images/team/fl-d-demo1.png",
       name: "Wanda Runo",
     },
     price: 983,
@@ -121,7 +125,8 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     author: {
-      img: "/images/team/fl-s-1.png",
+      //img: "/images/team/fl-s-1.png",
+      img: "/images/team/fl-d-demo1.png",
       name: "Wanda Runo",
     },
     price: 983,
@@ -147,7 +152,8 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     author: {
-      img: "/images/team/fl-s-2.png",
+      //img: "/images/team/fl-s-2.png",
+      img: "/images/team/fl-d-demo1.png",
       name: "Wanda Runo",
     },
     price: 983,
@@ -174,7 +180,8 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     author: {
-      img: "/images/team/fl-s-3.png",
+      //img: "/images/team/fl-s-3.png",
+      img: "/images/team/fl-d-demo1.png",
       name: "Wanda Runo",
     },
     price: 983,
@@ -198,7 +205,8 @@ export const product1 = [
     rating: 4.82,
     review: 94,
     author: {
-      img: "/images/team/fl-s-1.png",
+      //img: "/images/team/fl-s-1.png",
+      img: "/images/team/fl-d-demo1.png",
       name: "Wanda Runo",
     },
     price: 983,

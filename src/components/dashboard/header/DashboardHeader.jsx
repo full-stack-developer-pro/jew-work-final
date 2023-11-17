@@ -276,7 +276,8 @@ export default function DashboardHeader() {
                           <Image
                             height={50}
                             width={50}
-                            src="/images/resource/user.png"
+                            //src="/images/resource/user.png"
+                            src="/images/resource/userdemo.png"
                             alt="user.png"
                           />
                         </a>

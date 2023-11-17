@@ -239,7 +239,7 @@ export const ourTeam1 = [
   {
     id: 12,
     //img: "/images/team/team-2.jpg",
-    img: "/images/team/team-demo2.jpg",
+    img: "/images/team/team-demo2.png",
     name: "Dianne Russell",
     skill: "Web Designer",
   },
